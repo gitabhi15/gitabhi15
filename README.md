@@ -8,19 +8,19 @@ I'm a CS undergraduate at **BITS Pilani, Goa** building practical systems with a
 
 ### Vision-Based Access Control
 A prototype system using OpenCV face recognition and Arduino control logic for identity-based door actuation.  
-🔗 https://github.com/gitabhi15/vision-access-control
+🔗 https://github.com/gitabhi15/VisionCtrlSystem
 
 ### Embedded Alarm Clock Prototype
 Reliable time-aware alarm system using Arduino and RTC modules, with state management and display logic.  
-🔗 https://github.com/gitabhi15/alarm-clock-prototype
+🔗 https://github.com/gitabhi15/EmbeddedAlarmClk
 
 ### Physiological Signal Analysis
 EDA and feature preprocessing for emotion/stress classification pipelines from sensor data.  
-🔗 https://github.com/gitabhi15/emotion-signal-analysis
+🔗 https://github.com/gitabhi15/EmotionSignalAnalysis
 
 ### Light-Detecting Autonomous Rover
 Completed HCI-inspired autonomous rover project with real-time sensor interaction and responsive behavior.  
-🔗 https://github.com/gitabhi15/hci-light-rover
+🔗 https://github.com/gitabhi15/Autonomous-Arduino-Light-Reactive-Rover
 
 ---
 
