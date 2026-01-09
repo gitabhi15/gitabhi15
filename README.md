@@ -33,6 +33,6 @@ Completed HCI-inspired autonomous rover project with real-time sensor interactio
 ---
 
 ## Connect
-LinkedIn: https://linkedin.com/in/abhiram-mandadi  
+LinkedIn: https://linkedin.com/in/abhiram-mandadi-32684b342  
 
 ---
