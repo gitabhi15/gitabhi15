@@ -28,7 +28,7 @@ Completed HCI-inspired autonomous rover project with real-time sensor interactio
 **Languages:** Java, Python, C/C++ (Arduino)  
 **Embedded:** Arduino, RTC, Sensors, Servo, LCD  
 **Computer Vision / ML:** OpenCV, NumPy, Pandas  
-**Tools:** Git, Linux, FFmpeg
+**Tools:** Git, Linux
 
 ---
 
