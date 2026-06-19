@@ -22,12 +22,16 @@ EDA and feature preprocessing for emotion/stress classification pipelines from s
 Completed HCI-inspired autonomous rover project with real-time sensor interaction and responsive behavior.  
 🔗 https://github.com/gitabhi15/Autonomous-Arduino-Light-Reactive-Rover
 
+### Open-Gesture LLM for Semantic Context Awareness 
+An always-on wearable interface that continuously tokenizes physical motion into a structured, open-ended interaction language using edge-based neural networks and dynamically infers semantic intent to enable fluid, context-aware control across digital environments.  
+🔗 https://github.com/gitabhi15/open-gesture-llm
+
 ---
 
 ## Tech Stack
 **Languages:** Java, Python, C/C++ (Arduino)  
-**Embedded:** Arduino, RTC, Sensors, Servo, LCD  
-**Computer Vision / ML:** OpenCV, NumPy, Pandas  
+**Embedded:** Arduino, RTC, Sensors, Servo, LCD, Actuators  
+**Computer Vision / ML:** OpenCV, NumPy, Pandas, PyTorch  
 **Tools:** Git, Linux
 
 ---
